@@ -58,5 +58,5 @@ This project utilizes the YOLO (You Only Look Once) object detection model to co
 
 ## Output Picture
 
-![Output Picture](Project2_1.png)
-![Output Picture](Project2_2.png)
+![Output Picture](project2_1.png)
+![Output Picture](project2_2.png)
